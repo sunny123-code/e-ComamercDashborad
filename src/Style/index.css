@@ -1,0 +1,9 @@
+
+.Nav-Link{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.Nav-Link:hover{
+    color: red;
+}
